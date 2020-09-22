@@ -11,7 +11,7 @@
  
 ### Diagrama de Estados y Transiciones
 
-![alt text](https://github.com/StegmanCristian/Control-de-Iluminacion/blob/master/diagrama%20de%20%20estados%20y%20transiciones%20.jpeg)
+![alt text](https://github.com/StegmanCristian/Control-de-Iluminacion/blob/master/recursos/diagrama%20de%20%20estados%20y%20transiciones%20.jpeg)
 
 ### Descripcion del funcionamiento
 El proyecto consiste en un sistema de iluminacion automatico que adapte la intencidad de luz de acuerdo con la luz ambiente.
