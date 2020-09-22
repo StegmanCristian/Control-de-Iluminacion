@@ -24,8 +24,10 @@ int main()
 	printf("\nPrimer estado: Apagada");
 	config.i= read_i();
 	if (config.i<config.i_set-config.delta_i)
+	{
 		estado = on;
 		working(config.i,estado);
+	}
 	while(1)
 	{
       switch (estado)
